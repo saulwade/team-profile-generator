@@ -28,6 +28,5 @@ THEN I exit the application, and the HTML is generated
 # Preview
 ![Getting Started](./preview.jpg)
 
-
 # Video Link
 
